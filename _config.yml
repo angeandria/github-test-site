@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Ange's Digital garden
 description: Essays
 site_url: https://angeandria.github.io/github-test-site/
+github:
+  is_project_page: false
