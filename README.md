@@ -1,3 +1,3 @@
-Trying to publish to Project Pages.
+It seems to work.
 
-→ [iphone](/iphone.md)
+→ [iphone](/iphone)
