@@ -1,3 +1,2 @@
 # github-test-site
-
-something else haha
+Trying to publish to Project Pages.
