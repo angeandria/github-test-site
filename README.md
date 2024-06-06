@@ -1,3 +1,4 @@
-It seems to work.
+It seems to work?
+iphone.md link
 
-→ [iphone](/iphone)
+→ [iphone](/iphone.md)
