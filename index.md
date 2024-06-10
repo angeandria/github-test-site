@@ -21,9 +21,9 @@ Test
 19:01 iphone
 19:06 from iphone
 
-22:14 from iPhone
+22:14 from iphone
 
-22:17 from ipad
+22:40 from iPad
 hello
 
 Des erreurs persistent entre différents outils c’est dommage.
