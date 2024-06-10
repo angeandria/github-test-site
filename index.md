@@ -1,6 +1,6 @@
 # Hi. 
 
-from the index.md
+from the index
 
 - abc
 
