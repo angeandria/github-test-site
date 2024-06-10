@@ -15,4 +15,8 @@ Again.
 
 Test
 18:24 iPhone 
-18:28
+19:00 ipad
+19:01 iphone
+
+Des erreurs persistent entre différents outils c’est dommage.
+Peut être est il préférable de commit uniquement à partir d’un device et non des deux.
