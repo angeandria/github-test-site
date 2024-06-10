@@ -23,6 +23,7 @@ Test
 
 22:14 from iPhone
 
+22:17 from ipad
 hello
 
 Des erreurs persistent entre différents outils c’est dommage.
