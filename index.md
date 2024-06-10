@@ -19,7 +19,7 @@ Test
 19:01 iphone
 19:06 from iphone
 
-![[how-to-land-your-dream-job.png]]
+hello
 
 Des erreurs persistent entre différents outils c’est dommage.
 Peut être est il préférable de commit uniquement à partir d’un device et non des deux.
