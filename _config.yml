@@ -1,0 +1,10 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Ange's Digital garden
+description: Essays
+site_url: https://angeandria.github.io/github-test-site/
+show_downloads: false
+github:
+  is_project_page: false
