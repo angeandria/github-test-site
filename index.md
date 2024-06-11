@@ -1,10 +1,3 @@
----
-title: A new title for this website
----
-
-
-# Hi. 
-
 from the index
 
 - abc
