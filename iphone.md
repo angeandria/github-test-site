@@ -1,16 +1,16 @@
-# first
+## first
 
 i went to blabla
 
 ---
 
-# then
+## then
 
 i then did x y z
 
 ---
 
-# last
+## last
 
 and finally hahaha
 
