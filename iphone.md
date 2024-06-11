@@ -1,3 +1,7 @@
+---
+title: How I did X without Y
+---
+
 ## first
 
 i went to blabla
