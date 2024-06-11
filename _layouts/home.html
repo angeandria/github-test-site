@@ -14,11 +14,7 @@ layout: default
     {% for post in site.posts %}
       <li>
 
-		 <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-        </h2>
+		 <h2>post.title</h2>
 
       </li>
     {% endfor %}
