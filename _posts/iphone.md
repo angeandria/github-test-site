@@ -1,6 +1,7 @@
 ---
 title: How I did X without Y
 ---
+
 - [[#first|first]]
 - [[#then|then]]
 - [[#last|last]]
