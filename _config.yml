@@ -8,3 +8,13 @@ site_url: https://angeandria.github.io/github-test-site/
 show_downloads: false
 github:
   is_project_page: false
+
+home: 
+  limit_services: 6
+
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
