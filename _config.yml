@@ -4,6 +4,8 @@ plugins:
 
 title: Ange's Digital garden
 description: Essays
+baseurl: '/'
+permalink: pretty
 site_url: https://angeandria.github.io/github-test-site/
 show_downloads: false
 github:
@@ -18,3 +20,15 @@ collections:
     sort_by: weight
   team:
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
